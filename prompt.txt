@@ -1,0 +1,6 @@
+- Pedi um resumo dos slides e enviei um print da atividade, logo em seguida:
+
+Quero que como um especialista em python, desenvolva o código pedido na última atividade, 
+além disso, quero que configure o layout do terminal para melhor percepção da saida
+
+- O código foi desenvolvido corretamente na primeira tentativa
